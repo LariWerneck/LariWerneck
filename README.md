@@ -12,7 +12,7 @@ Ao longo do técnico, e agora também na faculdade, tive a oportunidade de traba
 Aqui estará disponível alguns dos meus projetos e um pouco do meu conhecimento!
 
 ## 🦾 Hard Skills
-📝 Linguagens
+#📝 Linguagens
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ Aqui estará disponível alguns dos meus projetos e um pouco do meu conhecimento
 <a href="https://www.linkedin.com/in/larissa-werneck-soares-a33447264/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:larissawerneck8@gmail.com?">
+<a href="mailto:larissawerneck8@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
