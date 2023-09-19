@@ -1,10 +1,17 @@
-# 👋 Hi there
-Breve descrição sobre mim
+## 👋 Hi there
+Me chamo Larissa Werneck, uma desenvolvedora e estudante da área, visando sempre novas oportunidades de aprendizado. Meu contato com a área começou há dois anos e meio, onde pude me tornar técnica e atualmente buscando meu nível superior na faculdade.
+Meu objetivo é evoluir constantemente na área de tecnologia, onde eu consegui juntar minhas paixões por computadores, códigos e criatividade. 
 
-# 🥇Experiência
-Breve descrição sobre minhas experiências
+## 🥇Experiência
+Atualmente cursando o 2° semestre de Sistemas de Informação na Universidade Santa Cecília.
+Formada no curso técnico de desenvolvimento de sistemas pela Etec Dra.Ruth Cardoso.
+Inglês B2 (2 anos de curso particular online)
+Espanhol A2 (Certificado pelo Colégio Delibes. Intercâmbio em Salamanca, Espanha)
 
-# 🦾 Hard Skills
+Ao longo do técnico, e agora também na faculdade, tive a oportunidade de trabalhar em diversos projetos de tecnologia, o maior deles sendo meu TCC sobre a gamificação e tecnologia no ambiente de trabalho!
+Aqui estará disponível alguns dos meus projetos e um pouco do meu conhecimento!
+
+## 🦾 Hard Skills
 📝 Linguagens
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,10 +29,11 @@ Breve descrição sobre minhas experiências
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-# 📱 Social medias
+## 📱 Social medias
 <a href="https://www.linkedin.com/in/larissa-werneck-soares-a33447264/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:larissawerneck8@gmail.com?">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
