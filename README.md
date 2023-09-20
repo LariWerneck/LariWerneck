@@ -1,5 +1,6 @@
 ## 👋 Hi there
-:flag_brazil:
+![image](https://github.com/LariWerneck/LariWerneck/assets/145464866/66028718-a995-4ce6-8599-12eb78d63df2)
+
 
 Me chamo Larissa Werneck, sou uma desenvolvedora e estudante da área de tecnologia da informação, sempre em busca de novas oportunidades de aprendizado. Meu contato com a área começou há dois anos e meio, quando pude me tornar técnica, e atualmente estou buscando meu nível superior na faculdade.
 Meu objetivo é evoluir constantemente na área de tecnologia, onde consegui unir minhas paixões por computadores, códigos e criatividade.
@@ -12,7 +13,8 @@ My goal is to continually evolve in the technology field, where I've been able t
 
 
 ## 🥇Experiência
-:flag_brazil: 
+![image](https://github.com/LariWerneck/LariWerneck/assets/145464866/cb6cde77-e7d4-4f9c-8185-b753088411d5)
+
 
 Atualmente, estou cursando o 2º semestre de Sistemas de Informação na Universidade Santa Cecília. Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso. Possuo nível B2 de inglês, resultado de dois anos de curso particular online, e também tenho conhecimento em espanhol no nível A2, com certificação do Colégio Delibes, obtido durante um intercâmbio em Salamanca, Espanha.
 
