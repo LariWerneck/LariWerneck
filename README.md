@@ -57,4 +57,7 @@ Throughout my technical course and currently in college, I've had the opportunit
 <a href="mailto:larissawerneck8@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://www.behance.net/larissawerneck">
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
 
