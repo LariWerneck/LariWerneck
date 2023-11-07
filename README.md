@@ -52,7 +52,7 @@ Throughout my technical course and currently in college, I've had the opportunit
 
 
 ## 📱 Social medias
-<a href="https://www.linkedin.com/in/larissa-werneck-soares-a33447264/">
+<a href="https://www.linkedin.com/in/larissa-werneck-a33447264/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:larissawerneck8@gmail.com">
