@@ -15,13 +15,13 @@ My goal is to continually evolve in the technology field, where I've been able t
 ## 🥇Experiência
 🇧🇷
 
-Atualmente, estou cursando o 4º semestre de Sistemas de Informação na Universidade Santa Cecília. Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso. Possuo nível B2 de inglês, resultado de dois anos de curso particular online, e também tenho conhecimento em espanhol no nível A2, com certificação do Colégio Delibes, obtido durante um intercâmbio em Salamanca, Espanha.
+Atualmente, estou cursando o 6º semestre de Sistemas de Informação na Universidade Santa Cecília. Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso. Possuo nível B2 de inglês, resultado de dois anos de curso particular online, e também tenho conhecimento em espanhol no nível A2, com certificação do Colégio Delibes, obtido durante um intercâmbio em Salamanca, Espanha.
 
 Durante o curso técnico e, atualmente, na faculdade, tive a oportunidade de trabalhar em diversos projetos na área de tecnologia. Um dos projetos mais relevantes foi meu Trabalho de Conclusão de Curso (TCC) sobre gamificação e tecnologia no ambiente de trabalho. Aqui você encontrará informações sobre alguns dos meus projetos e um pouco do meu conhecimento!
 
 🇺🇸
 
-I am currently in the 4nd semester of Information Systems at Santa Cecília University. I hold a degree in Systems Development from Etec Dra. Ruth Cardoso. I have a B2 level in English, which I achieved through two years of online private courses. I also have knowledge of Spanish at the A2 level, with certification from Colégio Delibes, obtained during an exchange program in Salamanca, Spain.
+I am currently in the 6nd semester of Information Systems at Santa Cecília University. I hold a degree in Systems Development from Etec Dra. Ruth Cardoso. I have a B2 level in English, which I achieved through two years of online private courses. I also have knowledge of Spanish at the A2 level, with certification from Colégio Delibes, obtained during an exchange program in Salamanca, Spain.
 
 Throughout my technical course and currently in college, I've had the opportunity to work on various technology projects. One of the most relevant projects was my Bachelor's Thesis on gamification and technology in the workplace. Here, you'll find information about some of my projects and a glimpse of my knowledge!
 
