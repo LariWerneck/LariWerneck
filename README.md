@@ -1,9 +1,9 @@
 <h1 align="center">Larissa Werneck</h1>
-<h3 align="center">DevOps & Cloud | Information Systems Student | Moving to France 🇫🇷</h3>
+<h3 align="center">DevOps & Cloud | Information Systems Student
 
 <br/>
 
-I'm a Brazilian developer focused on **DevOps and cloud infrastructure**, currently finishing my degree in Information Systems. In a few months I'm moving to France to complete a Bac+3 — looking for internship and junior opportunities in cloud/DevOps.
+I'm a Brazilian developer focused on **DevOps and cloud infrastructure**, currently finishing my degree in Information Systems. Looking for internship and junior opportunities in cloud/DevOps.
 
 I like building things that are actually usable, not just tutorial projects.
 
