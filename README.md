@@ -1,5 +1,5 @@
 <h1 align="center">Larissa Werneck</h1>
-<h3 align="center">DevOps & Cloud | Information Systems Student
+<h3 align="center">DevOps & Cloud | Information Systems Student </h3>
 
 <br/>
 
